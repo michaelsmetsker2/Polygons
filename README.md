@@ -4,3 +4,5 @@ Uses SFML 3.0 so some data stuctures and functions from the library may not exis
 All of the underlying logic and structure should be identical to what you would be dealing with. 
 
 From what I remember the only problem was that firing the laser didn't have a cooldown time, so it would shoot every frame.
+
+I did not do any extra credit options
